@@ -17,7 +17,7 @@
     },
     "dataSources": {
       "mainService": {
-        "uri": "/odata/v4/projects/",
+        "uri": "/odata/v4/projectServices/",
         "type": "OData",
         "settings": {
           "annotations": [],

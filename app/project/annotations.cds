@@ -1,4 +1,4 @@
-using projects as service from '../../srv/service';
+using projectServices as service from '../../srv/service';
 annotate service.Projects with @(
     
     UI.FieldGroup #GeneratedGroup : {

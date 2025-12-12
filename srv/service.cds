@@ -1,6 +1,6 @@
 using {db as service} from '../db/schema';
 
- service projects{
+ service projectServices{
   @odata.draft.enabled
 
     entity Projects as projection on service.Projects;

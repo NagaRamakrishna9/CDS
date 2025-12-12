@@ -1,1 +1,1 @@
-using projects as service from '../../srv/service';
+using projectServices as service from '../../srv/service';
