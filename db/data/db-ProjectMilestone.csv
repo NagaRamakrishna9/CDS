@@ -1,0 +1,9 @@
+ID,project_ID,name,description,descriptionArabic,plannedDate,actualDate,progress,status,createdAt,createdBy,modifiedAt,modifiedBy
+m1-0001,11111111-aaaa-bbbb-cccc-000000000001,Site Clearing,Site preparation and cleaning,تنظيف الموقع,2025-01-10,2025-01-12,10.0,1,2025-12-11T10:00:00Z,system,2025-12-11T10:00:00Z,system
+m2-0001,11111111-aaaa-bbbb-cccc-000000000001,Excavation,Excavation for foundation,الحفر للأساسات,2025-02-01,2025-02-02,15.0,1,2025-12-11T10:02:00Z,system,2025-12-11T10:02:00Z,system
+
+m1-0002,11111111-aaaa-bbbb-cccc-000000000002,Piling Work,Construction of foundation piles,أعمال الخوازيق,2025-03-15,2025-03-18,20.0,1,2025-12-11T10:05:00Z,system,2025-12-11T10:05:00Z,system
+m2-0002,11111111-aaaa-bbbb-cccc-000000000002,Ground Floor Slab,Pouring concrete for slab,صب الخرسانة للسقف الأرضي,2025-04-10,2025-04-12,40.0,1,2025-12-11T10:07:00Z,system,2025-12-11T10:07:00Z,system
+
+m1-0003,11111111-aaaa-bbbb-cccc-000000000003,Steel Frame Assembly,Installation of structural steel,تجميع الإطار الفولاذي,2025-02-25,2025-02-28,12.0,1,2025-12-11T10:10:00Z,system,2025-12-11T10:10:00Z,system
+m2-0003,11111111-aaaa-bbbb-cccc-000000000003,Roof Installation,Fixing roof panels,تركيب السقف,2025-05-10,2025-05-11,8.0,1,2025-12-11T10:12:00Z,system,2025-12-11T10:12:00Z,system

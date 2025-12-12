@@ -1,0 +1,26 @@
+<mvc:View 
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:core="sap.ui.core"
+    xmlns:macros="sap.fe.macros"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    controllerName="custom.ext.main.Main">
+
+    <Page id="Main" title="{i18n>MainTitle}">
+        <content>
+
+            <Label text="GIRIDHARANEGA  CEO"/>
+            <DatePicker/>
+
+            <Label text="City:"/>
+            <Select>
+                <items>
+                    <core:Item key="HYD" text="Hyderabad"/>
+                    <core:Item key="BLR" text="Bangalore"/>
+                    <core:Item key="DEL" text="Delhi"/>
+                </items>
+            </Select>
+
+        </content>
+    </Page>
+</mvc:View>

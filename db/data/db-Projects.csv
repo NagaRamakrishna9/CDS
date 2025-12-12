@@ -1,0 +1,4 @@
+ID,name,projectName,projectElement,projectElementDescription,companyCode,description,salesOrg,distributionChannel,division,country,completionDate,commencementDate,projectProgress,status,createdAt,createdBy,modifiedAt,modifiedBy
+11111111-aaaa-bbbb-cccc-000000000001,Project Alpha,Residential Tower A,PE-001,Foundation Work,1000,High-rise building project,1010,10,01,AE,2025-12-31,2025-01-01,20.5,1,2025-12-11T10:00:00Z,system,2025-12-11T10:00:00Z,system
+11111111-aaaa-bbbb-cccc-000000000002,Project Beta,Commercial Complex B,PE-002,Ground Floor Slab,2000,Shopping complex construction,2020,20,02,IN,2026-03-15,2025-05-10,45.0,1,2025-12-11T10:05:00Z,system,2025-12-11T10:05:00Z,system
+11111111-aaaa-bbbb-cccc-000000000003,Project Gamma,Warehouse C,PE-003,Steel Structure,3000,Logistics warehouse construction,3030,30,03,SA,2026-08-01,2025-02-20,10.0,0,2025-12-11T10:10:00Z,system,2025-12-11T10:10:00Z,system
