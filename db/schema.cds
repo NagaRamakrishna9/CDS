@@ -15,7 +15,7 @@ entity Projects : cuid, managed {
     distributionChannel       : String(25);
     division                  : String(25);
     country                   : String(25);
-    completionDate            : String(256);
+    completionDate            : Date;
     commencementDate          : Date;
     projectProgress           : Decimal(5,2);
 
@@ -26,7 +26,7 @@ entity Projects : cuid, managed {
 }
 
 
-entity ProjectMilestone : cuid, managed {
+entity ProjectMilestone : cuid {
 
     project           : Association to Projects;
 

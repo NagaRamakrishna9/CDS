@@ -44,11 +44,6 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<dependency>
-			<groupId>com.h2database</groupId>
-			<artifactId>h2</artifactId>
-			<scope>runtime</scope>
-		</dependency>
 	</dependencies>
 
 	<build>
@@ -116,12 +111,7 @@
 						<goals>
 							<goal>cds</goal>
 						</goals>
-						<configuration>
-							<commands>
-								<command>build --for java</command>
-								<command>deploy --to h2 --with-mocks --dry --out "${project.basedir}/src/main/resources/schema-h2.sql"</command>
-							</commands>
-						</configuration>
+						
 					</execution>
 
 					<execution>

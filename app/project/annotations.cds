@@ -159,9 +159,7 @@ annotate service.ProjectMilestones with @(
     ],
 );
 
-annotate service.Projects with {
-    completionDate @Common.Label : 'completionDate'
-};
+
 
 annotate service.Projects with {
     country @Common.Label : 'country'
